@@ -12,8 +12,7 @@ My GitHub represents a structured progression from **foundational programming an
 
 ## 🔗 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/shashanka-puranika-k  
-- Personal website: Available in portfolio-related repositories  
+- LinkedIn: https://www.linkedin.com/in/shashanka-puranika-k   
 
 ---
 
