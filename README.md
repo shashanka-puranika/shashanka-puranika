@@ -12,8 +12,7 @@ My GitHub reflects a journey from **foundational programming and data science** 
 
 ## 🔗 Connect with Me
 
-- 🔗 **LinkedIn**: https://www.linkedin.com/in/shashanka-puranika-k  
-- 🌐 **Personal Website**: Available in portfolio-related repositories  
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/shashanka-puranika-k    
 
 ---
 
