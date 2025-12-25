@@ -10,15 +10,12 @@ My GitHub showcases a blend of **bioinformatics pipelines, ML-enabled analytical
 🌐 Personal website (available in portfolio repositories)
 
 ---
-
 ## 📊 GitHub at a Glance
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shashanka-puranika&show_icons=true&hide_border=true&theme=dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanka-puranika&layout=compact&hide_border=true&theme=dark" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashanka-puranika&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanka-puranika&layout=compact&theme=github_dark&hide_border=true)
+
 
 ## 👨‍🔬 About Me
 
