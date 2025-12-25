@@ -1,18 +1,19 @@
-# Hi, I’m Shashanka Puranika K
+# Hi, I’m Shashanka Puranika K 👋
 
-🧬 Systems Biology Graduate Student  
-💻 Bioinformatics & Computational Biology  
-🤖 Machine Learning for Life Sciences  
+🧬 **Systems Biology Graduate Student**  
+💻 **Bioinformatics & Computational Biology**  
+🤖 **Machine Learning for Life Sciences**
 
-I am a systems biology graduate student and passionate developer focused on **computational biology, bioinformatics, and machine learning–driven data analysis**.  
+I am a systems biology graduate student and passionate developer focused on **computational biology, bioinformatics, and machine learning–driven data analysis**.
 
-My GitHub represents a structured progression from **foundational programming and data analysis** to **applied bioinformatics pipelines, machine learning workflows, exploratory research projects, and web-based portfolio development**.
+My GitHub reflects a journey from **foundational programming and data science** to **reproducible bioinformatics pipelines, ML-enabled analytical workflows, exploratory research projects, and personal web development**.
 
 ---
 
 ## 🔗 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/shashanka-puranika-k   
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/shashanka-puranika-k  
+- 🌐 **Personal Website**: Available in portfolio-related repositories  
 
 ---
 
@@ -20,76 +21,75 @@ My GitHub represents a structured progression from **foundational programming an
 
 I am currently pursuing an **MSc in Systems Biology**, with interdisciplinary experience spanning **biology, computation, and machine learning**.
 
-My work emphasizes:
-- Reproducible scientific computing  
-- Interpretable machine learning for biological data  
-- End-to-end ownership of data pipelines  
-- Research-oriented coding practices  
+I focus on:
+- 🔬 Translating biological questions into computational problems  
+- ♻️ Building reproducible and interpretable scientific pipelines  
+- 🤖 Applying machine learning responsibly to life-science data  
 
-My long-term goal is to build **ML-enabled, reproducible scientific workflows** that bridge computational methods with life-science research and translational applications.
+🎯 **Long-term goal:**  
+To develop **ML-enabled, reproducible scientific workflows** that bridge computational methods with real-world biological and clinical research.
 
 ---
 
-## 🧠 Core Areas of Focus
+## 🧠 Core Domains
 
 ### 🧬 Bioinformatics & Genomics
-- RNA-seq analysis and differential expression
-- Variant analysis and genomic data exploration
-- Next-generation sequencing (NGS) pipelines
-- Single-cell RNA-seq preprocessing and visualization
-- Multi-omics data handling and integration
+- 🧪 RNA-seq analysis & differential expression  
+- 🧬 Variant analysis & genomic data exploration  
+- 🧾 NGS pipelines & preprocessing  
+- 🧠 Single-cell RNA-seq analysis & visualization  
+- 🔗 Multi-omics data integration  
 
-### 🤖 Machine Learning in Biology
-- Feature engineering for biological and omics data
-- Supervised learning (classification and regression)
-- Model evaluation and validation
-- Interpretability and biological relevance of predictions
+### 🤖 Machine Learning for Biology
+- 🧠 Feature engineering on biological & omics data  
+- 📊 Supervised learning (classification & regression)  
+- 📈 Model evaluation & validation  
+- 🔍 Interpretability and biological relevance  
 
-### 📊 Data Science & Scientific Programming
-- Exploratory data analysis
-- Reproducible notebooks and scripts
-- Pipeline-based analysis workflows
+### 📊 Data Science & Scientific Computing
+- 📒 Exploratory data analysis  
+- 🧾 Reproducible notebooks & scripts  
+- 🔁 Pipeline-based workflows  
 
 ### 🌐 Web & Portfolio Development
-- Personal portfolio websites
-- Frontend experimentation and UI design
-- Documentation-focused presentation of work
+- 🎨 Personal portfolio websites  
+- 🧩 Frontend experimentation & UI design  
+- 📘 Documentation-focused presentation  
 
 ---
 
-## 💻 Programming Languages Used on GitHub
+## 💻 Programming Languages
 
-Based on my repositories, the following programming and scripting languages are actively used:
+Languages actively used across my GitHub repositories:
 
-- **Python** — primary language for bioinformatics pipelines, machine learning, data analysis, scripting, and automation  
-- **R** — statistical analysis, bioinformatics workflows, RNA-seq, visualization, and Bioconductor-based analysis  
-- **Bash / Shell** — Linux-based workflows, pipeline orchestration, and environment management  
-- **JavaScript** — frontend logic and interactive web components  
-- **HTML** — personal websites, portfolio pages, and static content  
-- **CSS** — styling, layouts, UI components, and design experimentation  
-- **CUDA (introductory / exploratory)** — parallel computing concepts and GPU programming exposure  
+- 🐍 **Python** — bioinformatics pipelines, ML models, data analysis, automation  
+- 📊 **R** — statistics, RNA-seq, Bioconductor workflows, visualization  
+- 🐧 **Bash / Shell** — Linux workflows, scripting, pipeline orchestration  
+- 🌐 **JavaScript** — frontend logic & interactivity  
+- 🧱 **HTML** — static websites & portfolio pages  
+- 🎨 **CSS** — styling, layouts, UI components  
+- ⚡ **CUDA (introductory)** — GPU programming & parallel computing concepts  
 
 ---
 
 ## 🛠️ Tools, Libraries & Platforms
 
-### Machine Learning & Data Science
-- Scikit-learn
-- Feature engineering workflows
-- Statistical learning methods
-- Data visualization libraries
+### 🤖 Machine Learning & Data Science
+- 🧠 Scikit-learn  
+- 📊 Feature engineering workflows  
+- 📈 Statistical learning & evaluation  
+- 📉 Data visualization  
 
-### Bioinformatics
-- RNA-seq workflows
-- NGS analysis practices
-- Variant analysis concepts
-- Omics data preprocessing
+### 🧬 Bioinformatics
+- 🧪 RNA-seq workflows  
+- 🧬 Variant analysis pipelines  
+- 🔬 Omics data preprocessing  
 
-### Scientific Computing & Development
-- Jupyter Notebook
-- Linux-based development
-- Git and GitHub for version control
-- RStudio for R-based analytics
+### ⚙️ Scientific Computing & Development
+- 📓 Jupyter Notebook  
+- 🐧 Linux environments  
+- 🔧 Git & GitHub  
+- 📊 RStudio  
 
 ---
 
@@ -98,12 +98,12 @@ Based on my repositories, the following programming and scripting languages are 
 ### 🧬 Bioinformatics & Data Analysis
 
 | Repository | Description |
-|------------|-------------|
-| **Genomic-variant-explorer** | Python-based workflow for genomic variant analysis with scope for ML-based prioritization. |
+|-----------|-------------|
+| **Genomic-variant-explorer** | Python workflow for genomic variant analysis with scope for ML-based prioritization. |
 | **NGS_analysis** | Exploratory next-generation sequencing analysis pipeline. |
-| **RNA_seq** | Standard RNA-seq pipeline covering alignment, quantification, and differential expression. |
-| **ms_omics_project** | Omics-focused project integrating multiple biological datasets for downstream analysis. |
-| **SingleCell_Immuno** | Single-cell immunology analysis pipeline with preprocessing and visualization. |
+| **RNA_seq** | Standard RNA-seq pipeline: alignment, quantification, differential expression. |
+| **ms_omics_project** | Multi-omics integration for downstream statistical and ML analysis. |
+| **SingleCell_Immuno** | Single-cell immunology pipeline with preprocessing and visualization. |
 
 ---
 
@@ -111,64 +111,64 @@ Based on my repositories, the following programming and scripting languages are 
 
 | Area | Description |
 |-----|-------------|
-| ML notebooks & experiments | Supervised learning workflows applied to biological datasets. |
-| Feature engineering pipelines | Encoding numerical and biological features for ML models. |
-| Model evaluation | Cross-validation, metrics, and biological interpretability. |
+| 📘 ML notebooks & experiments | Supervised ML workflows applied to biological datasets. |
+| 🧠 Feature engineering pipelines | Encoding numerical & biological features for ML models. |
+| 📊 Model evaluation | Cross-validation, metrics, and interpretability. |
 
 ---
 
-### 🧠 Learning, Tools & Practice
+### 🧠 Learning, Practice & Skill Building
 
 | Repository | Description |
-|------------|-------------|
+|-----------|-------------|
 | **30-Days-Of-Python** | Structured Python learning and challenge-based practice. |
-| **Ubuntu** | Linux-focused Python exercises and scripting workflows. |
-| **Training-modules** | Jupyter notebooks from bioinformatics and ML training sessions. |
-| **Rstudio** | R-based analytics, statistics, and visualization practice. |
+| **Ubuntu** | Linux-focused Python scripting and workflows. |
+| **Training-modules** | Jupyter notebooks from ML and bioinformatics training. |
+| **Rstudio** | R-based statistics, visualization, and analytics practice. |
 
 ---
 
 ### 🌐 Web & Personal Projects
 
 | Repository | Description |
-|------------|-------------|
+|-----------|-------------|
 | **Personal-Portfolio** | CSS-based personal portfolio website. |
-| **Portfolio** | UI experimentation and alternate portfolio designs. |
+| **Portfolio** | UI experimentation and alternate designs. |
 | **my-website** | HTML-based personal website or landing page. |
 
 ---
 
-### 🧪 Miscellaneous & Exploration
+### 🧪 Exploration & Miscellaneous
 
 | Repository | Description |
-|------------|-------------|
-| **public-apis** | Forked repository for reference and experimentation. |
-| **AutoGPT** | Fork exploring AI automation concepts. |
-| **cuda-course--** | CUDA programming course materials. |
-| **Qwen** | Forked large language model repository for experimentation. |
-| **AlphaFold** | Exploratory notebooks related to protein structure prediction. |
-| **css-reels** | CSS components and UI/UX snippets. |
+|-----------|-------------|
+| **public-apis** | Forked repository for experimentation and reference. |
+| **AutoGPT** | AI automation concept exploration. |
+| **cuda-course--** | CUDA programming coursework. |
+| **Qwen** | Large language model experimentation. |
+| **AlphaFold** | Exploratory work related to protein structure prediction. |
+| **css-reels** | UI/UX and CSS component experiments. |
 | **gittest** | Git command practice and version control experiments. |
 
 ---
 
-## 📂 How to Use This GitHub Profile
+## 📂 How to Navigate This Profile
 
-1. Browse repositories — most projects include documentation or comments  
-2. Clone and experiment — workflows are designed to adapt to new datasets  
-3. Reuse pipelines — modular code can be extended for research or learning  
-4. Collaborate — open to research, ML, and open-source collaboration  
+1. 📁 Browse repositories — most include documentation or comments  
+2. 🧪 Clone and experiment — workflows adapt to new datasets  
+3. 🔁 Reuse pipelines — modular code for research & learning  
+4. 🤝 Collaborate — open to research, ML, and open-source work  
 
 ---
 
 ## 🎯 Current Goals & Future Direction
 
-- Develop **ML-enabled, reproducible bioinformatics pipelines**
-- Apply machine learning to **large-scale omics and single-cell data**
-- Contribute to **open-source computational biology tools**
-- Prepare for **research-oriented and PhD-level computational work**
+- 🚀 Build **ML-enabled, reproducible bioinformatics pipelines**  
+- 🧬 Apply ML to **large-scale omics & single-cell data**  
+- 🌍 Contribute to **open-source computational biology tools**  
+- 🎓 Prepare for **research-focused and PhD-level work**  
 
 ---
 
-Thank you for visiting my GitHub profile.  
-⭐ Feel free to explore repositories or reach out for collaboration.
+⭐ **Thank you for visiting my GitHub profile!**  
+Feel free to explore repositories, star projects, or reach out for collaboration.
