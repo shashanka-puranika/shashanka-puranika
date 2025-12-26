@@ -149,16 +149,6 @@ Languages actively used across my GitHub repositories:
 | **css-reels** | UI/UX and CSS component experiments. |
 | **gittest** | Git command practice and version control experiments. |
 
----
-
-## 📂 How to Navigate This Profile
-
-1. 📁 Browse repositories — most include documentation or comments  
-2. 🧪 Clone and experiment — workflows adapt to new datasets  
-3. 🔁 Reuse pipelines — modular code for research & learning  
-4. 🤝 Collaborate — open to research, ML, and open-source work  
-
----
 
 ## 🎯 Current Goals & Future Direction
 
