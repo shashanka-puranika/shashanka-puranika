@@ -1,163 +1,95 @@
-# Hi, I’m Shashanka Puranika K 👋
+<!--
+==================================================
+🎯 GitHub Profile README for Shashanka Puranika K
+==================================================
+-->
 
-🧬 **Systems Biology Graduate Student**  
-💻 **Bioinformatics & Computational Biology**  
-🤖 **Machine Learning for Life Sciences**
+# 👋 Hi There, I’m **Shashanka Puranika K**  
+### MSc Systems Biology | Computational Biology & Bioinformatics Enthusiast
 
-I am a systems biology graduate student and passionate developer focused on **computational biology, bioinformatics, and machine learning–driven data analysis**.
-
-My GitHub reflects a journey from **foundational programming and data science** to **reproducible bioinformatics pipelines, ML-enabled analytical workflows, exploratory research projects, and personal web development**.
-
----
-
-## 🔗 Connect with Me
-
-- 🔗 **LinkedIn**: https://www.linkedin.com/in/shashanka-puranika-k    
+🚀 Passionate about turning biological questions into reproducible computational solutions.  
+I work at the intersection of **life sciences**, **machine learning**, and **software development**, with a strong passion for transparent scientific workflows and open-source collaboration. :contentReference[oaicite:1]{index=1}
 
 ---
 
-## 👨‍🔬 About Me
+## 🔗 GitHub Stats & Badges (Auto-Updating)
 
-I am currently pursuing an **MSc in Systems Biology**, with interdisciplinary experience spanning **biology, computation, and machine learning**.
-
-I focus on:
-- 🔬 Translating biological questions into computational problems  
-- ♻️ Building reproducible and interpretable scientific pipelines  
-- 🤖 Applying machine learning responsibly to life-science data  
-
-🎯 **Long-term goal:**  
-To develop **ML-enabled, reproducible scientific workflows** that bridge computational methods with real-world biological and clinical research.
+<!-- GitHub stat badges (visitors, top languages, contributions) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashanka-puranika&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanka-puranika&layout=compact)
 
 ---
 
-## 🧠 Core Domains
+## 🧬 About Me
 
-### 🧬 Bioinformatics & Genomics
-- 🧪 RNA-seq analysis & differential expression  
-- 🧬 Variant analysis & genomic data exploration  
-- 🧾 NGS pipelines & preprocessing  
-- 🧠 Single-cell RNA-seq analysis & visualization  
-- 🔗 Multi-omics data integration  
+I’m an interdisciplinary **MSc Systems Biology student** specializing in computational biology, bioinformatics, and the application of machine learning in life sciences. Between building reproducible pipelines and designing analytical workflows, my goal is to create *practical tools that advance biological research and data insight discovery.* :contentReference[oaicite:2]{index=2}
 
-### 🤖 Machine Learning for Biology
-- 🧠 Feature engineering on biological & omics data  
-- 📊 Supervised learning (classification & regression)  
-- 📈 Model evaluation & validation  
-- 🔍 Interpretability and biological relevance  
-
-### 📊 Data Science & Scientific Computing
-- 📒 Exploratory data analysis  
-- 🧾 Reproducible notebooks & scripts  
-- 🔁 Pipeline-based workflows  
-
-### 🌐 Web & Portfolio Development
-- 🎨 Personal portfolio websites  
-- 🧩 Frontend experimentation & UI design  
-- 📘 Documentation-focused presentation  
+💡 I blend biological context with computational rigor — whether that’s analyzing omics data or architecting reproducible scientific pipelines that scale.
 
 ---
 
-## 💻 Programming Languages
+## 🛠️ Core Skills & Tech Stack
 
-Languages actively used across my GitHub repositories:
+**Languages:**  
+Python, R, Bash & Shell scripting, JavaScript, HTML, CSS — with exposure to scientific computing and pipeline tools. :contentReference[oaicite:3]{index=3}
 
-- 🐍 **Python** — bioinformatics pipelines, ML models, data analysis, automation  
-- 📊 **R** — statistics, RNA-seq, Bioconductor workflows, visualization  
-- 🐧 **Bash / Shell** — Linux workflows, scripting, pipeline orchestration  
-- 🌐 **JavaScript** — frontend logic & interactivity  
-- 🧱 **HTML** — static websites & portfolio pages  
-- 🎨 **CSS** — styling, layouts, UI components  
-- ⚡ **CUDA (introductory)** — GPU programming & parallel computing concepts  
+**Libraries & Tools:**  
+- 🧠 **Machine Learning:** Scikit-learn, model evaluation & feature engineering  
+- 🧬 **Bioinformatics:** RNA-seq & variant analysis workflows, multi-omics data preprocessing  
+- 📊 **Data Science:** Jupyter, RStudio, reproducible workflows, visualization  
+- ⚙️ **Dev Tools:** Git, GitHub, Linux environments, shell scripting
 
 ---
 
-## 🛠️ Tools, Libraries & Platforms
+## 📌 Featured Projects
+
+### 🧪 Bioinformatics & Data Analysis
+| Repository | Description |
+|------------|-------------|
+| 🔗 `Genomic-variant-explorer` | Workflow for genomic variant analysis with potential ML prioritization |
+| 🔗 `NGS_analysis` | Exploratory next-generation sequencing pipeline |
+| 🔗 `RNA_seq` | Standard RNA-seq pipeline: alignment → quantification → differential expression |
+| 🔗 `ms_omics_project` | Multi-omics integration for statistical & ML analysis |
+| 🔗 `SingleCell_Immuno` | Single-cell preprocessing & visualization pipeline | :contentReference[oaicite:4]{index=4}
 
 ### 🤖 Machine Learning & Data Science
-- 🧠 Scikit-learn  
-- 📊 Feature engineering workflows  
-- 📈 Statistical learning & evaluation  
-- 📉 Data visualization  
+- Notebooks performing classification models, feature engineering pipelines, model evaluation on biological datasets | :contentReference[oaicite:5]{index=5}
 
-### 🧬 Bioinformatics
-- 🧪 RNA-seq workflows  
-- 🧬 Variant analysis pipelines  
-- 🔬 Omics data preprocessing  
+### 💻 Web & Personal Projects
+- Static & dynamic personal portfolio websites  
+- Frontend experimentation & UI component design, documentation-focused pages | :contentReference[oaicite:6]{index=6}
 
-### ⚙️ Scientific Computing & Development
-- 📓 Jupyter Notebook  
-- 🐧 Linux environments  
-- 🔧 Git & GitHub  
-- 📊 RStudio  
+### 🔍 Miscellaneous & Learning
+- Python learning challenges (`30-Days-Of-Python`)  
+- Linux and Bash scripting practice  
+- Exploratory CUDA coursework & model experiments | :contentReference[oaicite:7]{index=7}
 
 ---
-
-## 🚀 Featured Projects
-
-### 🧬 Bioinformatics & Data Analysis
-
-| Repository | Description |
-|-----------|-------------|
-| **Genomic-variant-explorer** | Python workflow for genomic variant analysis with scope for ML-based prioritization. |
-| **NGS_analysis** | Exploratory next-generation sequencing analysis pipeline. |
-| **RNA_seq** | Standard RNA-seq pipeline: alignment, quantification, differential expression. |
-| **ms_omics_project** | Multi-omics integration for downstream statistical and ML analysis. |
-| **SingleCell_Immuno** | Single-cell immunology pipeline with preprocessing and visualization. |
-
----
-
-### 🤖 Machine Learning & Data Science
-
-| Area | Description |
-|-----|-------------|
-| 📘 ML notebooks & experiments | Supervised ML workflows applied to biological datasets. |
-| 🧠 Feature engineering pipelines | Encoding numerical & biological features for ML models. |
-| 📊 Model evaluation | Cross-validation, metrics, and interpretability. |
-
----
-
-### 🧠 Learning, Practice & Skill Building
-
-| Repository | Description |
-|-----------|-------------|
-| **30-Days-Of-Python** | Structured Python learning and challenge-based practice. |
-| **Ubuntu** | Linux-focused Python scripting and workflows. |
-| **Training-modules** | Jupyter notebooks from ML and bioinformatics training. |
-| **Rstudio** | R-based statistics, visualization, and analytics practice. |
-
----
-
-### 🌐 Web & Personal Projects
-
-| Repository | Description |
-|-----------|-------------|
-| **Personal-Portfolio** | CSS-based personal portfolio website. |
-| **Portfolio** | UI experimentation and alternate designs. |
-| **my-website** | HTML-based personal website or landing page. |
-
----
-
-### 🧪 Exploration & Miscellaneous
-
-| Repository | Description |
-|-----------|-------------|
-| **public-apis** | Forked repository for experimentation and reference. |
-| **AutoGPT** | AI automation concept exploration. |
-| **cuda-course--** | CUDA programming coursework. |
-| **Qwen** | Large language model experimentation. |
-| **AlphaFold** | Exploratory work related to protein structure prediction. |
-| **css-reels** | UI/UX and CSS component experiments. |
-| **gittest** | Git command practice and version control experiments. |
-
 
 ## 🎯 Current Goals & Future Direction
 
-- 🚀 Build **ML-enabled, reproducible bioinformatics pipelines**  
-- 🧬 Apply ML to **large-scale omics & single-cell data**  
-- 🌍 Contribute to **open-source computational biology tools**  
-- 🎓 Prepare for **research-focused and PhD-level work**  
+- 🚧 Build scalable, ML-enabled bioinformatics pipelines  
+- 🧠 Apply machine learning to large-scale omics and single-cell datasets  
+- 🤝 Contribute to open source computational biology tools  
+- 🎓 Prepare for research-focused and PhD-level work
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile!**  
-Feel free to explore repositories, star projects, or reach out for collaboration.
+## 📫 Connect With Me
+
+Let’s collaborate or chat about science, code, or biology!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shashanka-puranika-k)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?logo=instagram)](https://www.instagram.com/machine_learning_eng)
+
+📬 Or drop me a message — I love meeting new thinkers and makers!
+
+---
+
+## 🙌 Thank You!
+
+Thanks for stopping by!  
+⭐ Feel free to explore my repositories, star projects you like, or reach out for collaboration.
+
+---  
+*Made with 💛 & ☕*
