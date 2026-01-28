@@ -1,14 +1,14 @@
-<!--
-==================================================
-🎯 GitHub Profile README for Shashanka Puranika K
-==================================================
--->
+# 👋 Hi, I’m **Shashanka Puranika K**
 
-# 👋 Hi There, I’m **Shashanka Puranika K**  
-### MSc Systems Biology | Computational Biology & Bioinformatics Enthusiast
+MSc Systems Biology | Computational Biology & Bioinformatics
 
-🚀 Passionate about turning biological questions into reproducible computational solutions.  
-I work at the intersection of **life sciences**, **machine learning**, and **software development**, with a strong passion for transparent scientific workflows and open-source collaboration. :contentReference[oaicite:1]{index=1}
+Bridging life sciences and computation through reproducible workflows, machine learning, and open-source science. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 🔍 About Me
+
+I’m pursuing **MSc in Systems Biology**, with a focus on **bioinformatics**, **computational biology**, and **machine learning for life sciences**. My GitHub reflects hands-on work in omics analysis, ML workflows for biological data, automation scripting, and interactive web components. :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -19,77 +19,50 @@ I work at the intersection of **life sciences**, **machine learning**, and **sof
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanka-puranika&layout=compact)
 
 ---
+## 🧠 Core Skills & Tools
 
-## 🧬 About Me
-
-I’m an interdisciplinary **MSc Systems Biology student** specializing in computational biology, bioinformatics, and the application of machine learning in life sciences. Between building reproducible pipelines and designing analytical workflows, my goal is to create *practical tools that advance biological research and data insight discovery.* :contentReference[oaicite:2]{index=2}
-
-💡 I blend biological context with computational rigor — whether that’s analyzing omics data or architecting reproducible scientific pipelines that scale.
+**Languages:** Python, R, Bash/Shell, JavaScript, HTML, CSS :contentReference[oaicite:2]{index=2}  
+**Libraries & Tools:** Scikit-learn, Jupyter, Bioconductor, Git, Linux environments:contentReference[oaicite:3]{index=3}
 
 ---
 
-## 🛠️ Core Skills & Tech Stack
+## ⭐ Featured Projects
 
-**Languages:**  
-Python, R, Bash & Shell scripting, JavaScript, HTML, CSS — with exposure to scientific computing and pipeline tools. :contentReference[oaicite:3]{index=3}
-
-**Libraries & Tools:**  
-- 🧠 **Machine Learning:** Scikit-learn, model evaluation & feature engineering  
-- 🧬 **Bioinformatics:** RNA-seq & variant analysis workflows, multi-omics data preprocessing  
-- 📊 **Data Science:** Jupyter, RStudio, reproducible workflows, visualization  
-- ⚙️ **Dev Tools:** Git, GitHub, Linux environments, shell scripting
-
----
-
-## 📌 Featured Projects
-
-### 🧪 Bioinformatics & Data Analysis
-| Repository | Description |
-|------------|-------------|
-| 🔗 `Genomic-variant-explorer` | Workflow for genomic variant analysis with potential ML prioritization |
-| 🔗 `NGS_analysis` | Exploratory next-generation sequencing pipeline |
-| 🔗 `RNA_seq` | Standard RNA-seq pipeline: alignment → quantification → differential expression |
-| 🔗 `ms_omics_project` | Multi-omics integration for statistical & ML analysis |
-| 🔗 `SingleCell_Immuno` | Single-cell preprocessing & visualization pipeline | :contentReference[oaicite:4]{index=4}
+### 🧬 Bioinformatics & Data Analysis
+- [**Genomic-variant-explorer**](https://github.com/shashanka-puranika/Genomic-variant-explorer) – Functional workflows for genomic variant analysis. :contentReference[oaicite:4]{index=4}  
+- [**NGS_analysis**](https://github.com/shashanka-puranika/NGS_analysis) – Pipeline for next-generation sequencing data preprocessing. :contentReference[oaicite:5]{index=5}  
+- [**RNA_seq**](https://github.com/shashanka-puranika/RNA_seq) – End-to-end RNA-seq alignment, quantification, and DE analysis. :contentReference[oaicite:6]{index=6}  
+- [**ms_omics_project**](https://github.com/shashanka-puranika/ms_omics_project) – Multi-omics integration and ML-ready data workflows. :contentReference[oaicite:7]{index=7}  
+- [**SingleCell_Immuno**](https://github.com/shashanka-puranika/SingleCell_Immuno) – Single-cell pipeline with visualization. :contentReference[oaicite:8]{index=8}
 
 ### 🤖 Machine Learning & Data Science
-- Notebooks performing classification models, feature engineering pipelines, model evaluation on biological datasets | :contentReference[oaicite:5]{index=5}
+- ML workflows & notebooks with supervised learning on biological datasets. :contentReference[oaicite:9]{index=9}
 
 ### 💻 Web & Personal Projects
-- Static & dynamic personal portfolio websites  
-- Frontend experimentation & UI component design, documentation-focused pages | :contentReference[oaicite:6]{index=6}
+- [**Personal-Portfolio**](https://github.com/shashanka-puranika/Personal-Portfolio) – Static portfolio website. :contentReference[oaicite:10]{index=10}  
+- [**my-website**](https://github.com/shashanka-puranika/my-website) – Personal landing page. :contentReference[oaicite:11]{index=11}  
 
-### 🔍 Miscellaneous & Learning
-- Python learning challenges (`30-Days-Of-Python`)  
-- Linux and Bash scripting practice  
-- Exploratory CUDA coursework & model experiments | :contentReference[oaicite:7]{index=7}
+### 🧪 Learning Projects & Practice
+- [**30-Days-Of-Python**](https://github.com/shashanka-puranika/30-Days-Of-Python) – Python practice series. :contentReference[oaicite:12]{index=12}  
+- [**Training-modules**](https://github.com/shashanka-puranika/Training-modules) – Educational notebooks in ML & bioinformatics. :contentReference[oaicite:13]{index=13}  
+- [**Ubuntu Linux-focused Python scripting**](https://github.com/shashanka-puranika/Ubuntu) – Scripting workflows. :contentReference[oaicite:14]{index=14}
 
 ---
 
-## 🎯 Current Goals & Future Direction
+## 🎯 Current Goals
 
-- 🚧 Build scalable, ML-enabled bioinformatics pipelines  
-- 🧠 Apply machine learning to large-scale omics and single-cell datasets  
-- 🤝 Contribute to open source computational biology tools  
-- 🎓 Prepare for research-focused and PhD-level work
+- Build **scalable ML-enabled pipelines** for omics data  
+- Apply **machine learning & deep learning** to biological datasets  
+- Contribute to **open source computational biology tools** :contentReference[oaicite:15]{index=15}
 
 ---
 
 ## 📫 Connect With Me
 
-Let’s collaborate or chat about science, code, or biology!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shashanka-puranika-k)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?logo=instagram)](https://www.instagram.com/machine_learning_eng)
-
-📬 Or drop me a message — I love meeting new thinkers and makers!
+🔗 [LinkedIn](https://www.linkedin.com/in/shashanka-puranika-k)  
+📸 [Instagram (@machine_learning_eng)](https://www.instagram.com/machine_learning_eng)
 
 ---
 
-## 🙌 Thank You!
-
-Thanks for stopping by!  
-⭐ Feel free to explore my repositories, star projects you like, or reach out for collaboration.
-
----  
-*Made with 💛 & ☕*
+## 🙌 Thanks for visiting!  
+Feel free to explore my repositories and reach out for collaboration 🚀
