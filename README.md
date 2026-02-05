@@ -4,13 +4,11 @@ MSc Systems Biology | Computational Biology & Bioinformatics
 
 Bridging life sciences and computation through reproducible workflows, machine learning, and open-source science. :contentReference[oaicite:0]{index=0}
 
----
 
 ## 🔍 About Me
 
 I’m pursuing **MSc in Systems Biology**, with a focus on **bioinformatics**, **computational biology**, and **machine learning for life sciences**. My GitHub reflects hands-on work in omics analysis, ML workflows for biological data, automation scripting, and interactive web components. :contentReference[oaicite:1]{index=1}
 
----
 
 ## 🔗 GitHub Stats & Badges (Auto-Updating)
 
