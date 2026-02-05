@@ -12,9 +12,9 @@ I’m pursuing **MSc in Systems Biology**, with a focus on **bioinformatics**, *
 
 ## 🔗 GitHub Stats & Badges (Auto-Updating)
 
-<!-- GitHub stat badges (visitors, top languages, contributions) -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashanka-puranika&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanka-puranika&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashanka-puranika&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanka-puranika&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 ## 🧠 Core Skills & Tools
