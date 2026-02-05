@@ -10,12 +10,6 @@ Bridging life sciences and computation through reproducible workflows, machine l
 I’m pursuing **MSc in Systems Biology**, with a focus on **bioinformatics**, **computational biology**, and **machine learning for life sciences**. My GitHub reflects hands-on work in omics analysis, ML workflows for biological data, automation scripting, and interactive web components. :contentReference[oaicite:1]{index=1}
 
 
-## 🔗 GitHub Stats & Badges (Auto-Updating)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashanka-puranika&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanka-puranika&layout=compact&theme=tokyonight&cache_seconds=1800)
-
 ---
 ## 🧠 Core Skills & Tools
 
