@@ -14,7 +14,7 @@ I'm pursuing **MSc in Systems Biology**, with a focus on **bioinformatics**, **c
 
 ## 📄 Resume
 
-📥 **[Download my Resume (PDF)](./resume.pdf)**
+📥 **[Download my Resume (PDF)](./resume.pdf?raw=1)**
 
 ---
 
