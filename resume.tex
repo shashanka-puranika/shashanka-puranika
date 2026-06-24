@@ -1,0 +1,118 @@
+\documentclass[11pt,a4paper]{article}
+
+% Packages
+\usepackage[margin=0.75in]{geometry}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{xcolor}
+
+% Colors
+\definecolor{primary}{RGB}{0,102,153}
+\definecolor{secondary}{RGB}{51,51,51}
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=primary,
+    urlcolor=primary,
+    pdftitle={Shashanka Puranika K - Resume},
+    pdfauthor={Shashanka Puranika K}
+}
+
+% Section formatting
+\titleformat{\section}
+  {\Large\bfseries\color{primary}}
+  {}
+  {0em}
+  {}
+  [\titlerule]
+
+\titlespacing*{\section}{0pt}{12pt}{8pt}
+
+% Remove page numbers
+\pagenumbering{gobble}
+
+% Custom commands
+\newcommand{\resumeItem}[1]{\item[\textbullet] #1}
+\newcommand{\projectItem}[2]{\item[\textbullet] \textbf{#1} -- #2}
+
+\begin{document}
+
+% Header
+\begin{center}
+    {\Huge\bfseries\color{secondary} Shashanka Puranika K}
+    
+    \vspace{8pt}
+    
+    {\large MSc Systems Biology | Computational Biology \& Bioinformatics}
+    
+    \vspace{10pt}
+    
+    \href{https://github.com/shashanka-puranika}{GitHub} $\bullet$
+    \href{https://www.linkedin.com/in/shashanka-puranika-k}{LinkedIn} $\bullet$
+    \href{https://www.instagram.com/machine_learning_eng}{Instagram: @machine\_learning\_eng}
+\end{center}
+
+\vspace{5pt}
+
+% Summary
+\section{Professional Summary}
+Aspiring computational biologist pursuing an MSc in Systems Biology with expertise in bioinformatics, computational biology, and machine learning for life sciences. Experienced in building reproducible omics analysis workflows, implementing ML pipelines for biological data, and developing automation scripts. Passionate about bridging life sciences and computation through open-source contributions.
+
+% Education
+\section{Education}
+\textbf{Master of Science in Systems Biology} \hfill \textit{Present}\\
+\textit{Focus: Computational Biology, Bioinformatics, Machine Learning for Life Sciences}
+
+% Skills
+\section{Technical Skills}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+    \item \textbf{Programming Languages:} Python, R, Bash/Shell, JavaScript, HTML, CSS
+    \item \textbf{Bioinformatics Tools:} Bioconductor, Seurat, DESeq2, Nextflow, Snakemake
+    \item \textbf{Machine Learning:} Scikit-learn, TensorFlow, Keras, Pandas, NumPy
+    \item \textbf{Development Tools:} Git, GitHub, Jupyter Notebooks, Linux/Unix, Docker
+    \item \textbf{Data Analysis:} Single-cell RNA-seq, Bulk RNA-seq, NGS Analysis, Multi-omics Integration
+\end{itemize}
+
+% Projects
+\section{Featured Projects}
+
+\subsection*{Bioinformatics \& Data Analysis}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=2pt]
+    \projectItem{\href{https://github.com/shashanka-puranika/Genomic-variant-explorer}{Genomic Variant Explorer}}{Developed functional workflows for comprehensive genomic variant analysis including variant calling, annotation, and visualization}
+    \projectItem{\href{https://github.com/shashanka-puranika/NGS_analysis}{NGS Analysis Pipeline}}{Built end-to-end pipeline for next-generation sequencing data preprocessing, quality control, and analysis}
+    \projectItem{\href{https://github.com/shashanka-puranika/RNA_seq}{RNA-seq Analysis}}{Implemented complete RNA-seq workflow covering alignment, quantification, and differential expression analysis}
+    \projectItem{\href{https://github.com/shashanka-puranika/ms_omics_project}{Multi-omics Integration}}{Created workflows for multi-omics data integration and ML-ready data preparation}
+    \projectItem{\href{https://github.com/shashanka-puranika/SingleCell_Immuno}{Single-Cell Immunology}}{Developed single-cell RNA-seq analysis pipeline with advanced visualization capabilities}
+\end{itemize}
+
+\subsection*{Machine Learning \& Data Science}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=2pt]
+    \resumeItem{Developed ML workflows and Jupyter notebooks implementing supervised learning algorithms on biological datasets}
+    \resumeItem{Applied classification and regression models for biological data interpretation and prediction}
+\end{itemize}
+
+\subsection*{Web Development \& Personal Projects}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=2pt]
+    \projectItem{\href{https://github.com/shashanka-puranika/Personal-Portfolio}{Personal Portfolio}}{Designed and developed a responsive static portfolio website showcasing projects and skills}
+    \projectItem{\href{https://github.com/shashanka-puranika/my-website}{Personal Website}}{Created a modern personal landing page with clean design}
+\end{itemize}
+
+% Learning & Continuous Development
+\section{Continuous Learning}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+    \projectItem{\href{https://github.com/shashanka-puranika/30-Days-Of-Python}{30 Days of Python}}{Completed intensive Python programming practice series covering advanced concepts}
+    \projectItem{\href{https://github.com/shashanka-puranika/Training-modules}{Training Modules}}{Created educational notebooks in ML and bioinformatics for skill development}
+    \projectItem{\href{https://github.com/shashanka-puranika/Ubuntu}{Linux Scripting}}{Developed Python scripting workflows for Ubuntu/Linux automation}
+\end{itemize}
+
+% Goals
+\section{Professional Interests}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+    \resumeItem{Building scalable ML-enabled pipelines for omics data analysis}
+    \resumeItem{Applying machine learning and deep learning techniques to biological datasets}
+    \resumeItem{Contributing to open-source computational biology tools and workflows}
+\end{itemize}
+
+\end{document}
